@@ -71,6 +71,8 @@ The HTML file can then be easily deployed to
 
 ```
 ---
+About the template ...
+Welcome here!
 title: "Tobi Burns"
 image: "tobi.jpg"
 links:
