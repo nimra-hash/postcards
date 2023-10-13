@@ -71,6 +71,7 @@ The HTML file can then be easily deployed to
 
 ```
 ---
+
 title: "Tobi Burns"
 image: "tobi.jpg"
 links:
